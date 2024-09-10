@@ -2,7 +2,7 @@
   "name": "AI-paste",
   "displayName": "AI-paste",
   "description": "快速粘贴AI生成的文件内容，自动生成对应文件夹",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "zgarry",
   "engines": {
     "vscode": "^1.50.0"
