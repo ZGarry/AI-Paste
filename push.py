@@ -28,7 +28,7 @@ def quickPush():
 
     # 推送到远程仓库的main分支(github默认main，其他工具可能不同)
     origin = repo.remote(name='origin')
-    origin.push('main')
+    origin.push('master')
 
 
 if __name__ == "__main__":
